@@ -9,7 +9,7 @@ I am still learning but I know Python, Javascript/Typescript, GameMaker Language
 ### Top used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZackyGameDev&hide=yacc,nsis&langs_count=7&theme=dracula)](https://github.com/ZackyGameDev/event-hoster-discord-bot)
 
-### Some Repositories I am working on
+### Some of my Repositories
 [![Event Hoster Discord Bot][EventHosterBotRepoCard]](https://github.com/ZackyGameDev/event-hoster-discord-bot)
 [![Dreams Game Jam Game][DreamsGameJamGameRepoCard]](https://github.com/ZackyGameDev/Dreams-GameJamGame)
 [![Path Finding Visualizer][PathFindingVisualizerCard]](https://github.com/ZackyGameDev/Path-Finding-Visualizer)
