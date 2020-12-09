@@ -20,6 +20,12 @@ I am still learning but I know Python, Javascript/Typescript, GameMaker Language
 [PathFindingVisualizerCard]: https://github-readme-stats.vercel.app/api/pin/?username=ZackyGameDev&repo=Path-Finding-Visualizer&cache_seconds=86400&theme=dracula
 [github.ioCard]: https://github-readme-stats.vercel.app/api/pin/?username=ZackyGameDev&repo=ZackyGameDev.github.io&cache_seconds=86400&theme=dracula
 
+### My other Profiles
+| <img src="https://cdn.freebiesupply.com/logos/large/2x/discord-logo-png-transparent.png" alt="discord-logo" width="25"> | [@Zacky#9543](https://discord.com/users/625987962781433867) |
+| --------- | ---------|
+| <img src="https://www.pinclipart.com/picdir/big/398-3984001_itch-io-logo-clipart.png" alt="itch.io-logo" width="25"> | [ZackyGameDev](http://zackygamedev.itch.io)
+| <img src="https://victoriabelanger.files.wordpress.com/2016/05/twitter_logo_bird_transparent_png.png" alt="twitter-logo" width="25"> | [@ZackyDev](http://twitter.com/ZackyDev)
+
 <!-- **ZackyGameDev/ZackyGameDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
