@@ -19,7 +19,7 @@ I am still learning but I know Python, Javascript/Typescript, GameMaker Language
 [EventHosterBotRepoCard]: https://github-readme-stats.vercel.app/api/pin/?username=ZackyGameDev&repo=event-hoster-discord-bot&cache_seconds=86400&theme=dracula
 [DreamsGameJamGameRepoCard]: https://github-readme-stats.vercel.app/api/pin/?username=ZackyGameDev&repo=Dreams-GameJamGame&cache_seconds=86400&theme=dracula
 [PathFindingVisualizerCard]: https://github-readme-stats.vercel.app/api/pin/?username=ZackyGameDev&repo=Path-Finding-Visualizer&cache_seconds=86400&theme=dracula
-[github.ioCard]: https://github-readme-stats.vercel.app/api/pin/?username=ZackyGameDev&repo=ZackyGameDev.github.io&cache_seconds=86400&theme=dracula
+[github.ioCard]: https://github-readme-stats.vercel.app/api/pin/?username=ZackyGameDev&repo=Fire-Bounce-GMS&cache_seconds=86400&theme=dracula
 
 ### My other Profiles
 | <img src="https://cdn.freebiesupply.com/logos/large/2x/discord-logo-png-transparent.png" alt="discord-logo" width="25"> | [@Zacky#9543](https://discord.com/users/625987962781433867) |
