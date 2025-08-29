@@ -12,17 +12,17 @@ I am still learning but I know Python, Javascript/Typescript, GameMaker Language
 ### Some of my Repositories
 [![Event Hoster Discord Bot][EventHosterBotRepoCard]](https://github.com/ZackyGameDev/event-hoster-discord-bot)
 [![Dreams Game Jam Game][DreamsGameJamGameRepoCard]](https://github.com/ZackyGameDev/Dreams-GameJamGame)
-[![Path Finding Visualizer][PathFindingVisualizerCard]](https://github.com/ZackyGameDev/Path-Finding-Visualizer)
+[![GameBoy Emulator][GameBoyEmu]](https://github.com/ZackyGameDev/GameBoyEmu)
 [![ZackyGameDev.github.io][github.ioCard]](https://github.com/ZackyGameDev/ZackyGameDev.github.io)
 
 <!-- Links -->
 [EventHosterBotRepoCard]: https://github-readme-stats.vercel.app/api/pin/?username=ZackyGameDev&repo=event-hoster-discord-bot&cache_seconds=86400&theme=dracula
 [DreamsGameJamGameRepoCard]: https://github-readme-stats.vercel.app/api/pin/?username=ZackyGameDev&repo=Dreams-GameJamGame&cache_seconds=86400&theme=dracula
-[PathFindingVisualizerCard]: https://github-readme-stats.vercel.app/api/pin/?username=ZackyGameDev&repo=Path-Finding-Visualizer&cache_seconds=86400&theme=dracula
+[GameBoyEmu]: https://github-readme-stats.vercel.app/api/pin/?username=ZackyGameDev&repo=GameBoyEmu&cache_seconds=86400&theme=dracula
 [github.ioCard]: https://github-readme-stats.vercel.app/api/pin/?username=ZackyGameDev&repo=Fire-Bounce-GMS&cache_seconds=86400&theme=dracula
 
 ### My other Profiles
-| <img src="https://cdn.freebiesupply.com/logos/large/2x/discord-logo-png-transparent.png" alt="discord-logo" width="25"> | [@Zacky#9543](https://discord.com/users/625987962781433867) |
+| <img src="https://cdn.freebiesupply.com/logos/large/2x/discord-logo-png-transparent.png" alt="discord-logo" width="25"> | [@zackydev](https://discord.com/users/625987962781433867) |
 | --------- | ---------|
 | <img src="https://www.pinclipart.com/picdir/big/398-3984001_itch-io-logo-clipart.png" alt="itch.io-logo" width="25"> | [ZackyGameDev](http://zackygamedev.itch.io)
 | <img src="https://victoriabelanger.files.wordpress.com/2016/05/twitter_logo_bird_transparent_png.png" alt="twitter-logo" width="25"> | [@ZackyDev](http://twitter.com/ZackyDev)
