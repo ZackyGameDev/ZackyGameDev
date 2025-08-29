@@ -16,9 +16,9 @@ I am still learning but I know Python, Javascript/Typescript, GameMaker Language
 [![ZackyGameDev.github.io][github.ioCard]](https://github.com/ZackyGameDev/ZackyGameDev.github.io)
 
 <!-- Links -->
+[GameBoyEmu]: https://github-readme-stats.vercel.app/api/pin/?username=ZackyGameDev&repo=GameBoyEmu&theme=dracula
 [EventHosterBotRepoCard]: https://github-readme-stats.vercel.app/api/pin/?username=ZackyGameDev&repo=event-hoster-discord-bot&cache_seconds=86400&theme=dracula
 [DreamsGameJamGameRepoCard]: https://github-readme-stats.vercel.app/api/pin/?username=ZackyGameDev&repo=Dreams-GameJamGame&cache_seconds=86400&theme=dracula
-[GameBoyEmu]: https://github-readme-stats.vercel.app/api/pin/?username=ZackyGameDev&repo=GameBoyEmu&cache_seconds=86400&theme=dracula
 [github.ioCard]: https://github-readme-stats.vercel.app/api/pin/?username=ZackyGameDev&repo=Fire-Bounce-GMS&cache_seconds=86400&theme=dracula
 
 ### My other Profiles
