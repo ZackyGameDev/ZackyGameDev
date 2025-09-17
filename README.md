@@ -11,15 +11,15 @@ I am still learning but I know Python, Javascript/Typescript, GameMaker Language
 
 ### Some of my Repositories
 [![Event Hoster Discord Bot][EventHosterBotRepoCard]](https://github.com/ZackyGameDev/event-hoster-discord-bot)
-[![Dreams Game Jam Game][DreamsGameJamGameRepoCard]](https://github.com/ZackyGameDev/Dreams-GameJamGame)
 [![GameBoy Emulator][GameBoyEmu]](https://github.com/ZackyGameDev/GameBoyEmu)
-[![ZackyGameDev.github.io][github.ioCard]](https://github.com/ZackyGameDev/ZackyGameDev.github.io)
+[![Dreams Game Jam Game][DreamsGameJamGameRepoCard]](https://github.com/ZackyGameDev/Dreams-GameJamGame)
+[![ZackyGameDev.github.io][github.ioCard]](https://github.com/ZackyGameDev/DiscordStudySessionRP)
 
 <!-- Links -->
+[EventHosterBotRepoCard]: https://github-readme-stats.vercel.app/api/pin/?username=ZackyGameDev&repo=event-hoster-discord-bot&theme=dracula
 [GameBoyEmu]: https://github-readme-stats.vercel.app/api/pin/?username=ZackyGameDev&repo=GameBoyEmu&theme=dracula
-[EventHosterBotRepoCard]: https://github-readme-stats.vercel.app/api/pin/?username=ZackyGameDev&repo=event-hoster-discord-bot&cache_seconds=86400&theme=dracula
-[DreamsGameJamGameRepoCard]: https://github-readme-stats.vercel.app/api/pin/?username=ZackyGameDev&repo=Dreams-GameJamGame&cache_seconds=86400&theme=dracula
-[github.ioCard]: https://github-readme-stats.vercel.app/api/pin/?username=ZackyGameDev&repo=Fire-Bounce-GMS&cache_seconds=86400&theme=dracula
+[DreamsGameJamGameRepoCard]: https://github-readme-stats.vercel.app/api/pin/?username=ZackyGameDev&repo=Dreams-GameJamGame&theme=dracula
+[github.ioCard]: https://github-readme-stats.vercel.app/api/pin/?username=ZackyGameDev&repo=DiscordStudySessionRP&theme=dracula
 
 ### My other Profiles
 | <img src="https://cdn.freebiesupply.com/logos/large/2x/discord-logo-png-transparent.png" alt="discord-logo" width="25"> | [@zackydev](https://discord.com/users/625987962781433867) |
