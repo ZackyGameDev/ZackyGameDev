@@ -2,11 +2,11 @@ Hello there 👋
 ==============================
 
 I am a student, I like computer science and programming, especially creating things which other people enjoy, especially Games.  
-I am still learning but I know Python, Javascript/Typescript, GameMaker Language, GDScript, and a fair bit of C#
+I am still learning but I know C, C++, Python, Javascript/Typescript, GameMaker Language, GDScript, and a fair bit of C#
 
 ![Zacky's github stats](https://github-readme-stats-ebon-three-71.vercel.app/api?username=ZackyGameDev&show_icons=true&theme=dracula)
 
-### Top used languages
+<!--### Top used languages
 [![Top Langs](https://github-readme-stats-ebon-three-71.vercel.app/api/top-langs/?username=ZackyGameDev&hide=yacc,nsis&langs_count=7&theme=dracula)](https://github.com/ZackyGameDev/event-hoster-discord-bot)
 
 ### Some of my Repositories
