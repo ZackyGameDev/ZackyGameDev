@@ -1,8 +1,7 @@
 Hello there 👋
 ==============================
 
-I am a student. I like computer science and programming. Especially systems, videogames, and tools that other people use and enjoy.
-My primary interests are Low level projects, Emulators, and Video games. Occasionally I also do backend/automation work.
+I am a student interested in computer science and programming. Especially systems programming, emulators, and video games. My primary interests are low-level projects and tools that people actually use. Occasionally I also do backend/automation work.
 
 ![Zacky's github stats](https://github-readme-stats-ebon-three-71.vercel.app/api?username=ZackyGameDev&show_icons=true&theme=dracula)
 
